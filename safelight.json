@@ -1,0 +1,8 @@
+{
+  "id": "theme-catppuccin-latte",
+  "name": "catppuccin-latte",
+  "version": "1.0.0",
+  "description": "Catppuccin-latte theme.",
+  "author": "oatbiscuit",
+  "main": "index.js"
+}
